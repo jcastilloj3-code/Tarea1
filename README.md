@@ -29,6 +29,6 @@ Además, se utiliza **Graphviz** para generar una representación visual en un a
   ```bash
   pip 
 
-  El programa es facil de utilizar se debe interactuar con el menú insertando los numeros asignados a cada actividad del menú que son insertar al inicio, insertar al final, eliminar por carnet, mostrar lista y salir. 
+## El programa es facil de utilizar se debe interactuar con el menú insertando los numeros asignados a cada actividad del menú que son insertar al inicio, insertar al final, eliminar por carnet, mostrar lista y salir. 
 
-  El archivo png contiene los nodos ingresados por los integrantes del grupo, al momento de agregar mas alumnos a las lista el archivo .png se actualizará con los nuevos nodos. 
+ ## El archivo png contiene los nodos ingresados por los integrantes del grupo, al momento de agregar mas alumnos a las lista el archivo .png se actualizará con los nuevos nodos. 
