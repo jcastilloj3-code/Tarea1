@@ -28,7 +28,7 @@ Además, se utiliza **Graphviz** para generar una representación visual en un a
 - Librería `graphviz` instalada en Python:
   ```bash
   pip 
-=======
-# Tarea1_JorgeCastillo
-Lista doblemente enlazada con CLI y Graphviz
->>>>>>> 4b13ad74b97ac1ddee35f16b3b96fe19f513e471
+
+  El programa es facil de utilizar se debe interactuar con el menú insertando los numeros asignados a cada actividad del menú que son insertar al inicio, insertar al final, eliminar por carnet, mostrar lista y salir. 
+
+  El archivo png contiene los nodos ingresados por los integrantes del grupo, al momento de agregar mas alumnos a las lista el archivo .png se actualizará con los nuevos nodos. 
